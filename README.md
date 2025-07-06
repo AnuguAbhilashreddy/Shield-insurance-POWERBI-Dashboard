@@ -97,7 +97,8 @@ suggesting seasonal dips and a need for campaigns during low-performing periods.
 [here is the live dashboard]( https://app.powerbi.com/reportEmbed?reportId=f34fd375-f3a9-4400-bd41-e3648990c9b5&autoAuth=true&ctid=21fa5699-6352-41be-9b5a-bc11ff019db4)
 
 ## dashboard ppt:
-[here is the ppt](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shield%20insurace%20powerbi%20dashboard%20ppt.pptx)
+[you can download here](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shield%20insurace%20powerbi%20dashboard%20ppt.pptx)
+[you can see here](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shiled%20insurance%20power%20bi%20dasboard%20ppt%20pdf.pdf)
 
 ## Key Takeaways
 - Gained practical understanding of the **insurance domain**
