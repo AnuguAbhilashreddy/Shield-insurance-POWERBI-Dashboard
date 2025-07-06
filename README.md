@@ -92,6 +92,7 @@ suggesting seasonal dips and a need for campaigns during low-performing periods.
 
 
 ## here are the direct linkks:
+here is the project video link:
 [Watch the project walkthrough video here](https://drive.google.com/file/d/1g89GKRHW_FxkLB9_Y96s3kxY2OIAYps7/view?usp=sharing)
 
  Power bi Live Dashboard:
