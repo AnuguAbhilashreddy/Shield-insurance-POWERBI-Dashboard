@@ -27,7 +27,7 @@ Customers are segmented into **six age groups**:
 
 ---
 
-## 🎯 Objective of the Project / What I Did
+## 🎯 Objective of the Project
 
 Using 6 months of customer and sales data, I performed the following analysis:
 
