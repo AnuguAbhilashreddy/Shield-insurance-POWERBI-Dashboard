@@ -89,8 +89,9 @@ Meanwhile, high-value policies like ₹1,20,000 generate over 32% of total reven
 March shows the highest revenue — nearly a 50% jump from February.
 November is the weakest, 
 suggesting seasonal dips and a need for campaigns during low-performing periods.
- 
-##📽️ Project Video:
+
+
+## Project Video:
 [Watch the project walkthrough video here](https://drive.google.com/file/d/1g89GKRHW_FxkLB9_Y96s3kxY2OIAYps7/view?usp=sharing)
 
 ## Power bi Live Dashboard:
@@ -98,6 +99,7 @@ suggesting seasonal dips and a need for campaigns during low-performing periods.
 
 ## dashboard ppt:
 [you can download here](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shield%20insurace%20powerbi%20dashboard%20ppt.pptx)
+
 [you can see here](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shiled%20insurance%20power%20bi%20dasboard%20ppt%20pdf.pdf)
 
 ## Key Takeaways
