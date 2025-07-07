@@ -96,7 +96,7 @@ here is the project video link:
 [Watch the project walkthrough video here](https://drive.google.com/file/d/1g89GKRHW_FxkLB9_Y96s3kxY2OIAYps7/view?usp=sharing)
 
  Power bi Live Dashboard:
-[here is the live dashboard]( https://app.powerbi.com/reportEmbed?reportId=f34fd375-f3a9-4400-bd41-e3648990c9b5&autoAuth=true&ctid=21fa5699-6352-41be-9b5a-bc11ff019db4)
+[here is the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZDQ0NjItOGJkYy00MGU2LThhNDAtNTQwMzVjMzllMjlkIiwidCI6IjIxZmE1Njk5LTYzNTItNDFiZS05YjVhLWJjMTFmZjAxOWRiNCJ9)
 
 dashboard ppt:
 [you can download here](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shield%20insurace%20powerbi%20dashboard%20ppt.pptx)
