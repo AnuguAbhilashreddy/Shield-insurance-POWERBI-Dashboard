@@ -101,7 +101,8 @@ here is the project video link:
 dashboard ppt:
 [you can download here](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shield%20insurace%20powerbi%20dashboard%20ppt.pptx)
 
-[you can see here](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shiled%20insurance%20power%20bi%20dasboard%20ppt%20pdf.pdf)
+Dashboard Pdf:
+[you can View Pdf here](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard/blob/main/shiled%20insurance%20power%20bi%20dasboard%20ppt%20pdf.pdf)
 
 ## Key Takeaways
 - Gained practical understanding of the **insurance domain**
